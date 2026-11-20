@@ -34,3 +34,4 @@ Import this folder into Vercel as a new project and use the default Next.js buil
 - Add the ASCII-art repository link if there is a public source repository for it.
 - Add screenshots or demo links only where you have real assets and URLs.
 - Confirm that your resume and portrait are suitable for public download/display.
+# Bala_Pilli_Portfolio_2026
